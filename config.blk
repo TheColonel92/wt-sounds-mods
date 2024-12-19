@@ -1,0 +1,120 @@
+language:t="English"
+use_eac:b=yes
+use_release_candidate:b=no
+releaseChannel:t=""
+forcedLauncher:i=0
+rdseed:i=41
+graphicsQuality:t="custom"
+lastTimeSetWin64:i=1734129042
+
+launcher{
+  startup_with_windows:b=no
+  bg_tray:b=yes
+  hide_to_tray_option:b=no
+  bg_update:b=no
+}
+
+download{
+  seeding_on:b=yes
+  peer_exchange:b=yes
+  dnl_limit:b=no
+  DHT:b=yes
+  upl_limit:b=no
+  upl_speed_rate:i=5000
+  dnl_speed_rate:i=5000
+  UTP2:b=no
+}
+
+sound{
+  speakerMode:t="speakers7.1"
+  fmod_sound_enable:b=yes
+  enable_mod:b=yes
+}
+
+video{
+  vsync:b=no
+  adaptive_vsync:b=no
+  windowed:b=no
+  mode:t="fullscreenwindowed"
+  resolution:t="auto"
+  driver:t="auto"
+  antialiasing_mode:t="high_fxaa"
+  antialiasing_upscaling:t="native"
+  compatibilityMode:b=no
+  fonts:t="compact"
+  latency:i=0
+  vrStreamerMode:b=no
+  antialiasing_sharpening:i=0
+  perfMetrics:i=1
+  monitor:t="auto"
+  vreye:t="left"
+}
+
+yunetwork{
+  curCircuit:t="production"
+}
+
+gameplay{
+  enableVR:b=no
+}
+
+graphics{
+  texquality:t="high"
+  shadowQuality:t="high"
+  waterEffectsQuality:t="medium"
+  compatibilityShadowQuality:t="low"
+  anisotropy:i=1
+  ssaa:r=1
+  contactShadowsQuality:i=0
+  lenseFlares:b=no
+  waterQuality:t="high"
+  giQuality:t="low"
+  displacementQuality:i=2
+  dirtSubDiv:i=2
+  tireTracksQuality:i=2
+  lastClipSize:i=8192
+  landquality:i=3
+  clipmapScale:r=1
+  rendinstDistMul:r=1.3
+  fxDensityMul:r=0.95
+  fxTarget:t="medium"
+  grassRadiusMul:r=0.1
+  backgroundScale:r=1
+  physicsQuality:i=4
+  advancedShore:b=yes
+  panoramaResolution:i=2560
+  mirrorQuality:i=10
+  cloudsQuality:i=1
+  skyQuality:i=1
+  riGpuObjects:b=yes
+  enableBVH:b=no
+  bvhMode:t="off"
+  RTAOQuality:t="off"
+  RTRQuality:t="off"
+  RTRRes:t="half"
+  bvhRiGenRange:i=3000
+  RTRTranslucent:t="off"
+  motionBlurStrength:i=0
+  RTRWaterRes:t="half"
+  enableRTSM:t="off"
+  RTRWater:b=no
+  motionBlurCancelCamera:b=no
+}
+
+render{
+  ssaoQuality:i=0
+  ssrQuality:i=0
+  shadows:b=yes
+  selfReflection:b=yes
+  haze:b=yes
+}
+
+debug{
+  netLogerr:b=yes
+  screenshotHiRes:b=no
+  screenshotAsJpeg:b=yes
+}
+
+directx{
+  enableHdr:b=no
+}
