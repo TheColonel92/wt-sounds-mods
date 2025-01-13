@@ -3,8 +3,8 @@
 ```
 War Thunder/
 ├── sound/               
-│   └── mods/           # Dossier pour les fichiers de mods (à créer si nécessaire)
-├── config.blk          # Fichier de configuration principal
+│   └── mods/        # Dossier pour les fichiers de mods (à créer si nécessaire)
+├── config.blk       # Fichier de configuration principal
 ```
 ### Explications :
 `sound/mods/` : Ce dossier contient les fichiers des mods sonores. S'il n'existe pas, il faut le créer manuellement.
