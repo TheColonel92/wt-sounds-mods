@@ -14,7 +14,7 @@ War Thunder/
 - Accédez au dossier d'installation de War Thunder.
 - Naviguez vers `sound/` et créez un nouveau dossier nommé `mods` (si ce n'est pas déjà fait).
 2. Télécharger les mods :
-- [Téléchargez les fichiers de mods sonores](https://github.com/TheColonel92/wt-sounds-mods/edit/main/README.md#latest-version) compatibles avec War Thunder depuis une source fiable.
+- [Téléchargez les fichiers de mods sonores](https://github.com/TheColonel92/wt-sounds-mods/tree/main?tab=readme-ov-file#latest-version) compatibles avec War Thunder depuis une source fiable.
 - Placez les fichiers `.wav`, `.ogg` ou tout autre format pris en charge dans le dossier `sound/mods/`.
 3. Modifier le fichier `config.blk` :
 - Ouvrez le fichier `config.blk` situé dans le dossier principal de War Thunder avec un éditeur de texte (comme Notepad++ ou un éditeur similaire).
@@ -42,7 +42,7 @@ blk # Main configuration file
 - Navigate to the War Thunder installation folder.
 - Navigate to `sound/` and create a new folder named `mods` (if you haven't already).
 2. Download mods:
-- [Download sound mod files](https://github.com/TheColonel92/wt-sounds-mods/edit/main/README.md#latest-version) compatible with War Thunder from a trusted source.
+- [Download sound mod files](https://github.com/TheColonel92/wt-sounds-mods/tree/main?tab=readme-ov-file#latest-version) compatible with War Thunder from a trusted source.
 - Place the `.wav`, `.
 ogg` or any other supported format in the `sound/mods/` folder.
 3. Edit the `config.blk` file:
