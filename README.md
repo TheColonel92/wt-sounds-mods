@@ -84,7 +84,7 @@ War Thunder/
 ---
 ## Before 2023
 - [War Thunder x Girls und Panzer: Air Superiority Edition](https://live.warthunder.com/post/1069728/en/)
-- [GuP Radio Chat](https://live.warthunder.com/post/911390/en/)
+- [War Thunder x Girls und Panzer: Radio styled voice effects Add-ons](https://live.warthunder.com/post/911390/en/)
 - [War Thunder x Girls und Panzer: All in one (AIO) Mixed Crew Pack](https://live.warthunder.com/post/896860/en/)
 
 ## 24/02/2023
