@@ -1,4 +1,60 @@
-# wt-sounds-mods
+# WT-Sounds-Mods
+## Structure des fichiers
+```
+War Thunder/
+├── sound/               
+│   └── mods/           # Dossier pour les fichiers de mods (à créer si nécessaire)
+├── config.blk          # Fichier de configuration principal
+```
+### Explications :
+`sound/mods/` : Ce dossier contient les fichiers des mods sonores. S'il n'existe pas, il faut le créer manuellement.
+`config.blk` : Ce fichier doit être modifié pour activer les mods sonores dans le jeu.
+### Étapes d'installation
+1. Créer le dossier `mods` :
+- Accédez au dossier d'installation de War Thunder.
+- Naviguez vers `sound/` et créez un nouveau dossier nommé `mods` (si ce n'est pas déjà fait).
+2. Télécharger les mods :
+- [Téléchargez les fichiers de mods sonores](https://github.com/TheColonel92/wt-sounds-mods/edit/main/README.md#latest-version) compatibles avec War Thunder depuis une source fiable.
+- Placez les fichiers `.wav`, `.ogg` ou tout autre format pris en charge dans le dossier `sound/mods/`.
+3. Modifier le fichier `config.blk` :
+- Ouvrez le fichier `config.blk` situé dans le dossier principal de War Thunder avec un éditeur de texte (comme Notepad++ ou un éditeur similaire).
+- Ajoutez ou modifiez les lignes suivantes :
+  ```
+  enable_mods:b=yes
+  sound{
+    enable_mods:b=yes
+  }
+  ```
+
+## File structure
+```
+War Thunder/
+├── sound/               
+│ └── mods/ # Folder for mod files (to be created if necessary)
+├── config.
+blk # Main configuration file
+```
+### Explanations:
+`sound/mods/`: This folder contains sound mod files. If it does not exist, you must create it manually.
+`config.blk`: This file must be modified to enable sound mods in the game.
+### Installation steps
+1. Create the `mods` folder:
+- Navigate to the War Thunder installation folder.
+- Navigate to `sound/` and create a new folder named `mods` (if you haven't already).
+2. Download mods:
+- [Download sound mod files](https://github.com/TheColonel92/wt-sounds-mods/edit/main/README.md#latest-version) compatible with War Thunder from a trusted source.
+- Place the `.wav`, `.
+ogg` or any other supported format in the `sound/mods/` folder.
+3. Edit the `config.blk` file:
+- Open the `config.blk` file located in the main War Thunder folder with a text editor (like Notepad++ or a similar editor).
+- Add or modify the following lines:
+  ```
+  enable_mods:b=yes
+  sound{
+    enable_mods:b=yes
+  }
+  ```
+---
 ## Latest version:
 - [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
 - [Music](https://live.warthunder.com/dl/cd9a175fec946ea46bd0e66416c3076fdf3ad4e7/)
