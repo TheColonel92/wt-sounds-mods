@@ -82,6 +82,11 @@ War Thunder/
 - [Others Sounds](https://live.warthunder.com/dl/b70ea64f0ef0ce7ff38572d82466d46ca2640620/)
 
 ---
+## Before 2023
+- [War Thunder x Girls und Panzer: Air Superiority Edition](https://live.warthunder.com/post/1069728/en/)
+- [GuP Radio Chat](https://live.warthunder.com/post/911390/en/)
+- [War Thunder x Girls und Panzer: All in one (AIO) Mixed Crew Pack](https://live.warthunder.com/post/896860/en/)
+
 ## 24/02/2023
 ### Music:
 - [Immersive Warfare Musics Mod](https://live.warthunder.com/post/1054277/en/)
