@@ -30,9 +30,8 @@ War Thunder/
 ```
 War Thunder/
 ├── sound/               
-│ └── mods/ # Folder for mod files (to be created if necessary)
-├── config.
-blk # Main configuration file
+│ └── mods/       # Folder for mod files (to be created if necessary)
+├── config.blk    # Main configuration file
 ```
 ### Explanations:
 `sound/mods/`: This folder contains sound mod files. If it does not exist, you must create it manually.
