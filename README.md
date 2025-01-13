@@ -100,7 +100,10 @@
 - ## 09/01/2025
 ### Crew/Radio:
 - [Thunder Radio. I.A.E. UPD 5.1](https://live.warthunder.com/post/1008051/en/)
+  [Download](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
 ### Music:
 - [PIXTOLERO MUSICS MOD - Firebirds](https://live.warthunder.com/post/1123950/en/)
+  [Download](https://live.warthunder.com/dl/cd9a175fec946ea46bd0e66416c3076fdf3ad4e7/)
 ### Others Sounds:
 - [IWSM 8 (4.0.2) Storm Warning Ready](https://live.warthunder.com/post/1118327/en/)
+  [Download](https://live.warthunder.com/dl/b70ea64f0ef0ce7ff38572d82466d46ca2640620/)
