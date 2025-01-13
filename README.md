@@ -156,7 +156,7 @@ War Thunder/
 ### Cannons Sounds:
 - [IWSM 8 (3.0.4)](https://live.warthunder.com/post/1122890/en/)
 
-- ## 09/01/2025
+## 09/01/2025
 ### Crew/Radio:
 - [Thunder Radio. I.A.E. UPD 5.1](https://live.warthunder.com/post/1008051/en/)
 ### Music:
