@@ -42,8 +42,7 @@ War Thunder/
 - Navigate to `sound/` and create a new folder named `mods` (if you haven't already).
 2. Download mods:
 - [Download sound mod files](https://github.com/TheColonel92/wt-sounds-mods/tree/main?tab=readme-ov-file#latest-version) compatible with War Thunder from a trusted source.
-- Place the `.wav`, `.
-ogg` or any other supported format in the `sound/mods/` folder.
+- Place the `.wav`, `.ogg` or any other supported format in the `sound/mods/` folder.
 3. Edit the `config.blk` file:
 - Open the `config.blk` file located in the main War Thunder folder with a text editor (like Notepad++ or a similar editor).
 - Add or modify the following lines:
