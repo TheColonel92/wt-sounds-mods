@@ -73,17 +73,17 @@ graphics{
   dirtSubDiv:i=2
   tireTracksQuality:i=2
   lastClipSize:i=8192
-  landquality:i=3
+  landquality:i=2
   clipmapScale:r=1
-  rendinstDistMul:r=1.3
-  fxDensityMul:r=0.95
+  rendinstDistMul:r=1.79
+  fxDensityMul:r=0.61
   fxTarget:t="medium"
   grassRadiusMul:r=0.1
   backgroundScale:r=1
   physicsQuality:i=4
-  advancedShore:b=yes
-  panoramaResolution:i=2560
-  mirrorQuality:i=10
+  advancedShore:b=no
+  panoramaResolution:i=2048
+  mirrorQuality:i=0
   cloudsQuality:i=1
   skyQuality:i=1
   riGpuObjects:b=yes
@@ -102,11 +102,11 @@ graphics{
 }
 
 render{
-  ssaoQuality:i=0
+  ssaoQuality:i=1
   ssrQuality:i=0
   shadows:b=yes
   selfReflection:b=yes
-  haze:b=yes
+  haze:b=no
 }
 
 debug{
