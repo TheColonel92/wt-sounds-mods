@@ -78,7 +78,7 @@ War Thunder/
 ---
 ## Latest version:
 - [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
-- [Music](https://live.warthunder.com/dl/cd9a175fec946ea46bd0e66416c3076fdf3ad4e7/)
+- [Music](https://live.warthunder.com/dl/6baeea73beec634f6cb2d06cc87e02de504dca7d/)
 - [Others Sounds](https://live.warthunder.com/dl/b70ea64f0ef0ce7ff38572d82466d46ca2640620/)
 
 ---
@@ -189,5 +189,13 @@ War Thunder/
 - [Thunder Radio. I.A.E. UPD 5.1](https://live.warthunder.com/post/1008051/en/)
 ### Music:
 - [PIXTOLERO MUSICS MOD - Firebirds](https://live.warthunder.com/post/1123950/en/)
+### Others Sounds:
+- [IWSM 8 (4.0.2) Storm Warning Ready](https://live.warthunder.com/post/1118327/en/)
+
+## 17/01/2025
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.1](https://live.warthunder.com/post/1008051/en/)
+### Music:
+- [PIXTOLERO MUSICS MOD - Storm Warning](https://live.warthunder.com/post/1127839/en/)
 ### Others Sounds:
 - [IWSM 8 (4.0.2) Storm Warning Ready](https://live.warthunder.com/post/1118327/en/)
