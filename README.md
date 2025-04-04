@@ -79,7 +79,7 @@ War Thunder/
 ## Latest version:
 - [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
 - [Music](https://live.warthunder.com/dl/6baeea73beec634f6cb2d06cc87e02de504dca7d/)
-- [Others Sounds](https://live.warthunder.com/dl/b70ea64f0ef0ce7ff38572d82466d46ca2640620/)
+- [Others Sounds](https://live.warthunder.com/dl/a41806d14326f60a096a0c4af6a52a5a1334ab57/)
 
 ---
 ## Before 2023
