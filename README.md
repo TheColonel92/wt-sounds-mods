@@ -207,3 +207,14 @@ War Thunder/
 - [PIXTOLERO MUSICS MOD - Storm Warning](https://live.warthunder.com/post/1127839/en/)
 ### Others Sounds:
 - [IWSM 8 (4.0.2) Storm Warning Ready](https://live.warthunder.com/post/1118327/en/)
+
+## 12/04/2025
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.1](https://live.warthunder.com/post/1008051/en/)
+  - [Download](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
+### Music:
+- [PIXTOLERO MUSICS MOD - Storm Warning](https://live.warthunder.com/post/1135786/en/)
+  - [Download](https://live.warthunder.com/dl/1bb2a26d6fed3f0b39a1e6c06f063dc16a68bcee/)
+### Others Sounds:
+- [OPEX build 1.0.4](https://live.warthunder.com/post/1136032/en/)
+  - [Download](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/)
