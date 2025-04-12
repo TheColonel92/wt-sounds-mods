@@ -76,10 +76,10 @@ War Thunder/
   ```
 
 ---
-## Latest version:
+## [Latest version](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/):
 - [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
-- [Music](https://live.warthunder.com/dl/6baeea73beec634f6cb2d06cc87e02de504dca7d/)
-- [Others Sounds](https://live.warthunder.com/dl/a41806d14326f60a096a0c4af6a52a5a1334ab57/)
+- [Music](https://live.warthunder.com/dl/1bb2a26d6fed3f0b39a1e6c06f063dc16a68bcee/)
+- [Others Sounds](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/)
 
 ---
 ## Before 2023
