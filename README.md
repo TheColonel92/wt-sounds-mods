@@ -76,7 +76,7 @@ War Thunder/
   ```
 
 ---
-## [Latest version](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/):
+## [Latest version](https://github.com/TheColonel92/wt-sounds-mods/blob/main/README.md#12042025):
 - [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
 - [Music](https://live.warthunder.com/dl/1bb2a26d6fed3f0b39a1e6c06f063dc16a68bcee/)
 - [Others Sounds](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/)
