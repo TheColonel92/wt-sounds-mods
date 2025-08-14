@@ -77,9 +77,8 @@ War Thunder/
 
 ---
 ## [Latest version](https://github.com/TheColonel92/wt-sounds-mods/blob/main/README.md#12042025):
-- [Crew/Radio](https://live.warthunder.com/dl/90abc8c304439be5c75fbc69290b411329c7fa7a/)
-- [Music](https://live.warthunder.com/dl/1bb2a26d6fed3f0b39a1e6c06f063dc16a68bcee/)
-- [Others Sounds](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/)
+- [Crew/Radio](https://live.warthunder.com/dl/75086c757b6bfb2f7cd31fc2658ac93710929cf6/)
+- [Others Sounds](https://live.warthunder.com/dl/2d9ebd8ff87fb88d1cd51a88cc8ff41c22f20274/)
 
 ---
 ## Before 2023
@@ -218,3 +217,13 @@ War Thunder/
 ### Others Sounds:
 - [OPEX build 1.0.4](https://live.warthunder.com/post/1136032/en/)
   - [Download](https://live.warthunder.com/dl/8242d949d2848a53e4ad0d1f669a9a1686944d72/)
+
+## 14/08/2025
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.2](https://live.warthunder.com/post/1008051/en)
+  - [Download](https://live.warthunder.com/dl/75086c757b6bfb2f7cd31fc2658ac93710929cf6/)
+### Music:
+- ...
+### Others Sounds:
+- [OPEX build 3.2.0 Leviathans compatible](https://live.warthunder.com/post/1118327/en)
+  - [Download](https://live.warthunder.com/dl/2d9ebd8ff87fb88d1cd51a88cc8ff41c22f20274/)
