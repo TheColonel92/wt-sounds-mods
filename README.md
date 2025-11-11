@@ -248,3 +248,13 @@ War Thunder/
 - [OPEX build 3.4.9](https://live.warthunder.com/post/1155382/en/)
   - [Download](https://live.warthunder.com/dl/79c07bdde196a0fbcb6b85150e4e512ba171810e/)
 
+## 11/11/2025
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.2](https://live.warthunder.com/post/1008051/en)
+  - [Download](https://live.warthunder.com/dl/75086c757b6bfb2f7cd31fc2658ac93710929cf6/)
+### Music:
+- [Pixtolero Musics Mod](https://sites.google.com/view/pixtoleromusicsmod/)
+  - [Download](https://drive.google.com/file/d/1YlLd9-G5d_5vzloF8faK6oQHuWvuijdK/view)
+### Others Sounds:
+- [OPEX build 3.4.9](https://live.warthunder.com/post/1155382/en/)
+  - [Download](https://live.warthunder.com/dl/79c07bdde196a0fbcb6b85150e4e512ba171810e/)
