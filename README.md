@@ -20,7 +20,7 @@ War Thunder/
   │   └── mod/    # Dossier pour les fichiers de mods (à créer si nécessaire)
   ```
 2. Télécharger les mods :
-- [Téléchargez les fichiers de mods sonores](https://github.com/TheColonel92/wt-sounds-mods/tree/main?tab=readme-ov-file#latest-version) compatibles avec War Thunder depuis une source fiable.
+- Téléchargez les fichiers de mods sonores compatibles avec War Thunder depuis une source fiable.
 - Placez les fichiers `.wav`, `.ogg` ou tout autre format pris en charge dans le dossier `sound/mod/`.
 3. Modifier le fichier `config.blk` :
 - Ouvrez le fichier `config.blk` situé dans le dossier principal de War Thunder avec un éditeur de texte (comme Notepad++ ou un éditeur similaire).
@@ -59,7 +59,7 @@ War Thunder/
   │ └── mod/       # Folder for mod files (to be created if necessary)
   ```
 2. Download mods:
-- [Download sound mod files](https://github.com/TheColonel92/wt-sounds-mods/tree/main?tab=readme-ov-file#latest-version) compatible with War Thunder from a trusted source.
+- Download sound mod files compatible with War Thunder from a trusted source.
 - Place the `.wav`, `.ogg` or any other supported format in the `sound/mod/` folder.
 3. Edit the `config.blk` file:
 - Open the `config.blk` file located in the main War Thunder folder with a text editor (like Notepad++ or a similar editor).
@@ -74,11 +74,6 @@ War Thunder/
     enable_mod:b=yes
   }
   ```
-
----
-## [Latest version](https://github.com/TheColonel92/wt-sounds-mods/blob/main/README.md#12042025):
-- [Crew/Radio](https://live.warthunder.com/dl/75086c757b6bfb2f7cd31fc2658ac93710929cf6/)
-- [Others Sounds](https://live.warthunder.com/dl/43c30a8633795fd098f95b1d7c47941f3463fc5a/)
 
 ---
 ## Before 2023
