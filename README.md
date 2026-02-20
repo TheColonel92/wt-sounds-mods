@@ -286,3 +286,17 @@ War Thunder/
 ### Others Sounds:
 - [OPEX build 3.6.4](https://live.warthunder.com/post/1162871/en/)
   - [Download](https://live.warthunder.com/dl/32c0e567a62f6de514f8e6e9c1e0ccfa2b405215/)
+
+## 20/02/2026
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.2](https://live.warthunder.com/post/1008051/en)
+  - [Download](https://live.warthunder.com/dl/5b11962ff8a6483e3cb8c7f50e19cf34dcc64092/)
+### Music:
+- [Pixtolero Musics Mod](https://sites.google.com/view/pixtoleromusicsmod/)
+  - [Download](https://drive.google.com/file/d/1YlLd9-G5d_5vzloF8faK6oQHuWvuijdK/view)
+### Others Sounds:
+- [OPEX build 3.6.4](https://live.warthunder.com/post/1162871/en/)
+  - [Download](https://live.warthunder.com/dl/32c0e567a62f6de514f8e6e9c1e0ccfa2b405215/)
+  - [French Crew Voice Pack V5](https://live.warthunder.com/dl/6a2e9327bd99a5b2d4400758f59be4bcf4785d0a/)
+  - [Realistic US Crew Voices Pack V3](https://live.warthunder.com/dl/9058d075a9ddc4b9a333873497fb7380ec54ce0d/)
+  - [Realistic German Crew Voice Pack V1](https://live.warthunder.com/dl/4966abd6660a38355198aed21e3371b51a5e2ae4/)
