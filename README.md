@@ -314,3 +314,14 @@ War Thunder/
   - [French Crew Voice Pack V5](https://live.warthunder.com/dl/37243957aabbe9a321ec151b7aa11580e7d7f0ba/)
   - [Realistic US Crew Voices Pack V3](https://live.warthunder.com/dl/9058d075a9ddc4b9a333873497fb7380ec54ce0d/)
   - [Realistic German Crew Voice Pack V1](https://live.warthunder.com/dl/4966abd6660a38355198aed21e3371b51a5e2ae4/)
+ 
+## 03/05/2026
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.2](https://live.warthunder.com/post/1008051/en)
+  - [Download](https://live.warthunder.com/dl/5b11962ff8a6483e3cb8c7f50e19cf34dcc64092/)
+### Music:
+- [Pixtolero Musics Mod](https://sites.google.com/view/pixtoleromusicsmod/)
+  - [Download Pixtolero-MusicsMod-HornetStrings-V6.zip](https://drive.google.com/file/d/1YlLd9-G5d_5vzloF8faK6oQHuWvuijdK/view)
+### Others Sounds:
+- [OPEX build 3.8.0 + naval NINTH WAVE UPDATE](https://live.warthunder.com/post/1169272/en/)
+  - [Download](https://live.warthunder.com/dl/322acd1baffaa7d202eb051c7c1349a4d2e5228f/)
