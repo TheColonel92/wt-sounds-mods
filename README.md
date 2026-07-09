@@ -325,3 +325,14 @@ War Thunder/
 ### Others Sounds:
 - [OPEX build 3.8.0 + naval NINTH WAVE UPDATE](https://live.warthunder.com/post/1169272/en/)
   - [Download](https://live.warthunder.com/dl/322acd1baffaa7d202eb051c7c1349a4d2e5228f/)
+
+## 09/07/2026
+### Crew/Radio:
+- [Thunder Radio. I.A.E. UPD 5.2](https://live.warthunder.com/post/1008051/en)
+  - [Download](https://live.warthunder.com/dl/5b11962ff8a6483e3cb8c7f50e19cf34dcc64092/)
+### Music:
+- [Pixtolero Musics Mod](https://live.warthunder.com/post/1181243/en/)
+  - [Download](https://live.warthunder.com/dl/0cab9abee9274a2822ae70a9b767e8bd0a2f1e41/)
+### Others Sounds:
+- [OPEX build 3.9.3 FIX + naval + crew](https://live.warthunder.com/post/1180811/en/)
+  - [Download](https://live.warthunder.com/dl/5c54f210297743eada32843631ea08899d729c70/)
