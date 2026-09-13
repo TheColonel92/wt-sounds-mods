@@ -336,3 +336,14 @@ War Thunder/
 ### Others Sounds:
 - [OPEX build 3.9.3 FIX + naval + crew](https://live.warthunder.com/post/1180811/en/)
   - [Download](https://live.warthunder.com/dl/5c54f210297743eada32843631ea08899d729c70/)
+
+## 09/13/2026
+### Music:
+- [Pixtolero Musics Mod](https://live.warthunder.com/post/1181243/en/)
+  - [Download](https://live.warthunder.com/dl/0cab9abee9274a2822ae70a9b767e8bd0a2f1e41/)
+### Others Sounds:
+- OPEX Community
+  - OPEX OVERHAUL BETA discord 1.0.0
+    - [Download](https://drive.google.com/file/d/1h_5kM5BBHPIV9h56_pvL64XHsS9BCEkt)
+  - [OPEX French Crew Voice Pack V6](https://live.warthunder.com/post/1139037/en/)
+    - [Download](https://live.warthunder.com/dl/8e2bb294c47f16af42d79c2682f1f899afa7167a/)
