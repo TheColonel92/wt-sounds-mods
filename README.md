@@ -360,3 +360,15 @@ War Thunder/
     - [Download](https://live.warthunder.com/dl/247797eb9718ecaf654b164b87a9b6b5988798ce/)
   - [OPEX French Crew Voice Pack V6](https://live.warthunder.com/post/1139037/en/)
     - [Download](https://live.warthunder.com/dl/8e2bb294c47f16af42d79c2682f1f899afa7167a/)
+
+## 09/26/2026
+### Music:
+- [Pixtolero Historical Musics Mod](https://live.warthunder.com/post/1188981/en/)
+  - [Download](https://live.warthunder.com/dl/25274d855dc6e05fff43d310cbfc65101f32dd6d/)
+- [Pixtolero Musics Mod](https://live.warthunder.com/post/1181243/en/)
+  - [Download aircraft_music_2](https://live.warthunder.com/dl/0cab9abee9274a2822ae70a9b767e8bd0a2f1e41/)
+### Others Sounds:
+- OPEX Community
+  - [OPEX OVERHAUL 1.0.1](https://live.warthunder.com/post/1118327/en/)
+    - [Download](https://live.warthunder.com/dl/247797eb9718ecaf654b164b87a9b6b5988798ce/)
+  - [OPEX CREW PACK FIXED](https://cdn.discordapp.com/attachments/1269941050957500456/1553399451639615528/OPEX_CREW_PACK_FIXED.zip?ex=6ab91b7a&is=6ab7c9fa&hm=1c9f7cfce82270eec7e379b1403fd4aaee70ed4c7c296b0817b1ee8feadc974f&)
