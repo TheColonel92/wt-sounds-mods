@@ -372,3 +372,15 @@ War Thunder/
   - [OPEX OVERHAUL 1.0.1](https://live.warthunder.com/post/1118327/en/)
     - [Download](https://live.warthunder.com/dl/247797eb9718ecaf654b164b87a9b6b5988798ce/)
   - [OPEX CREW PACK FIXED](https://cdn.discordapp.com/attachments/1269941050957500456/1553399451639615528/OPEX_CREW_PACK_FIXED.zip?ex=6ab91b7a&is=6ab7c9fa&hm=1c9f7cfce82270eec7e379b1403fd4aaee70ed4c7c296b0817b1ee8feadc974f&)
+
+## 09/29/2026
+### Music:
+- [Pixtolero Historical Musics Mod](https://live.warthunder.com/post/1188981/en/)
+  - [Download](https://live.warthunder.com/dl/25274d855dc6e05fff43d310cbfc65101f32dd6d/)
+- [Pixtolero Musics Mod](https://live.warthunder.com/post/1181243/en/)
+  - [Download aircraft_music_2](https://live.warthunder.com/dl/0cab9abee9274a2822ae70a9b767e8bd0a2f1e41/)
+### Others Sounds:
+- OPEX Community
+  - [OPEX OVERHAUL 1.0.6](https://live.warthunder.com/post/1118327/en/)
+    - [Download](https://live.warthunder.com/dl/811af9ae79028f85471edd86daa1a83fb81566c2/)
+  - [OPEX CREW PACK FIXED](https://cdn.discordapp.com/attachments/1269941050957500456/1553399451639615528/OPEX_CREW_PACK_FIXED.zip?ex=6ab91b7a&is=6ab7c9fa&hm=1c9f7cfce82270eec7e379b1403fd4aaee70ed4c7c296b0817b1ee8feadc974f&)
